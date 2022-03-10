@@ -2,8 +2,8 @@
  This repository is all about the CRUD operation and handling the real world dataset in the cloud with python.
  
  ## Description
- You have see the use of database which is IBM DB2. In this repository, we handle the CRUDS operation, SQL magic of jupyter notebook and working on real world dataset with python.
- You have see how the connection of database has been built throught the REST-API. I have practice it upload the dataset to IBM db2, perform CRUD operation, loading the dataset into pandas dataframe and visualize the data. 
+ You have see the use of database which is IBM DB2. In this repository, I handle the CRUDS operation, SQL magic of jupyter notebook and working on real world dataset with python.
+ You have see how the connection of database has been built through the REST-API. I have practice it upload the dataset to IBM db2, perform CRUD operation, loading the dataset into pandas dataframe and visualize the data. 
  
  ### Technologies
  1. IBM db2
